@@ -2,7 +2,7 @@
 
 This is my custom Neovim setup, built on top of [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim). It includes the following enhancements:
 
-- **Language support**: Added Treesitter configurations for multiple languages
+- **Language support**: Added Treesitter and LSP configurations for multiple languages
 - **Plugins**: 
   - `telescope.nvim` for fuzzy finding files, LSP, etc.
   - `gitsigns.nvim` for Git integration.
